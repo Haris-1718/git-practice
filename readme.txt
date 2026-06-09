@@ -1,3 +1,1 @@
-Mera pehla Git project
-Ye meri doosri line hai
-Ye meri teesri line hai
+My First Git
